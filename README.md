@@ -1,0 +1,1 @@
+# Django_Delete_Confirmation_with_Bulma
