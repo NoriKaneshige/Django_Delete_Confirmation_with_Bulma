@@ -1,6 +1,6 @@
 # Django_Delete_Confirmation_with_Bulma
 
-[referred blog](https://narito.ninja/blog/detail/89/)
+[referred blog](https://narito.ninja/blog/detail/119/)
 
 ![Delete-Confirmation-with-Bulma](Delete-Confirmation-with-Bulma.gif)
 
